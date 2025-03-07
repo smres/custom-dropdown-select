@@ -5,36 +5,36 @@ This project is a **reusable dropdown component** built with **React.js, TypeScr
 ✅ **Modern and responsive design**  
 ✅ **Closes the dropdown when clicking outside**  
 ✅ **Smooth arrow rotation animation when opening/closing**  
-✅ **Modular and maintainable structure**  
+✅ **Modular and maintainable structure**
 
 ---
 
-## 🚀 Installation & Setup  
+## 🚀 Installation & Setup
 
-First, clone the repository:  
+First, clone the repository:
 
 ```
-git clone https://github.com/your-repo/ecommerce-dropdown.git
-cd ecommerce-dropdown
+git clone https://github.com/smres/custom-dropdown-select
+cd custom-dropdown-select
 ```
 
-Then, install dependencies:  
+Then, install dependencies:
 
 ```
 npm install
 ```
 
-Finally, start the development server:  
+Finally, start the development server:
 
 ```
 npm run dev
 ```
 
-Now, visit **`http://localhost:3000`** in your browser to see the component in action.  
+Now, visit **`http://calhost:5173`** in your browser to see the component in action.
 
 ---
 
-## 📂 Project Structure  
+## 📂 Project Structure
 
 ```
 /src
@@ -50,25 +50,29 @@ Now, visit **`http://localhost:3000`** in your browser to see the component in a
 
 ---
 
-## 🎨 Features & Functionality  
+## 🎨 Features & Functionality
 
-### 1️⃣ Selectable Product Categories  
-- Users can choose from available categories like **Science 🚀, Sports ⚽, Art 🎭, Health 🏥, and more**.  
+### 1️⃣ Selectable Product Categories
 
-### 2️⃣ Animated Arrow Rotation  
-- When the dropdown is clicked, **the arrow rotates upwards**, and when closed, **it rotates back down**.  
+- Users can choose from available categories like **Science 🚀, Sports ⚽, Art 🎭, Health 🏥, and more**.
 
-### 3️⃣ Close Dropdown on Outside Click  
-- If the user clicks **outside the dropdown**, it will **automatically close**.  
+### 2️⃣ Animated Arrow Rotation
 
-### 4️⃣ Responsive & Modern UI  
-- Styled using **SCSS modules**, ensuring a **clean and scalable design** across all devices.  
+- When the dropdown is clicked, **the arrow rotates upwards**, and when closed, **it rotates back down**.
+
+### 3️⃣ Close Dropdown on Outside Click
+
+- If the user clicks **outside the dropdown**, it will **automatically close**.
+
+### 4️⃣ Responsive & Modern UI
+
+- Styled using **SCSS modules**, ensuring a **clean and scalable design** across all devices.
 
 ---
 
-## 🛠️ How to Use  
+## 🛠️ How to Use
 
-Import and use the `Dropdown` component in your project:  
+Import and use the `Dropdown` component in your project:
 
 ```
 import Dropdown from "./components/Dropdown/Dropdown";
@@ -88,7 +92,8 @@ export default App;
 
 ---
 
-## 📜 License  
-This project is licensed under the **MIT License**.  
+## 📜 License
+
+This project is licensed under the **MIT License**.
 
 🚀 **Happy Coding!** 🎨
